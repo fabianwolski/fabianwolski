@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Fabian, a developer from Dublin, Ireland<br>- 🚀 Constantly striving to be a better programmer<br>- 🌱 Currently working on open source<br>- 📚 Learning Kubernetes and Golang<br>- ⚡ In my free time I <del>code</del></p>
+<p align="left">I'm Fabian, a developer from Dublin, Ireland. With close to 2 years experience, graduating from BSc Computer Science this year<br>- 🚀 Constantly striving to be a better programmer<br>- 🌱 Currently working on open source<br>- 📚 Learning Kubernetes and Golang<br>- ⚡ In my free time I <del>code</del></p>
 
 ###
 
