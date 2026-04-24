@@ -1,18 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmN3aGlqZ3k4cHF4bWNhMnFwbzQ4ODR2cHcyNjh2eXZpZWs5czNraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👀</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Fabian, a developer from Dublin, Ireland. With close to 2 years experience, graduating from BSc Computer Science this year<br>- 🚀 Constantly striving to be a better programmer<br>- 🌱 Currently working on open source<br>- 📚 Learning Kubernetes and Golang<br>- ⚡ In my free time I <del>code</del></p>
+<p align="left">I'm Fabian, a passionate technology enthusiast</p>
 
 ###
 
